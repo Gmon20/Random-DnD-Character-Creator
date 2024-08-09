@@ -1,0 +1,66 @@
+Human
+Dragonborn
+Elf
+Half-Elf
+Druid
+Tiefling
+Dwarf
+Gnome
+Halfling
+Half-Orc
+Aasimar
+Air Genasi
+Aarakocra
+Bugbear
+Changeling
+Deep Gnome
+Duergar
+Earth Genasi
+Eladri 
+Fairy
+Firbolg
+Fire Genasi
+Githyanki
+Githzerai
+Goblin
+Harengon
+Hobgoblin
+Kenku
+Kobold
+Lizardfolk
+Orc
+Satyr
+Sea Elf
+Shadar-kai
+Shifter
+Tabaxi
+Tortle
+Triton
+Water Genasi
+Yuan-ti
+Kender
+Astral Elf
+Autognome
+Giff
+Hadozee
+Plasmoid
+Thri-kreen
+Owlin
+Leonin
+Kalashtar
+Warforged
+Verdan
+Loxodon
+Simic Hybrid
+Vedalken
+Locathah
+Grung
+Cervan
+Gallus
+Hedge
+Jerbeen
+Luma
+Macpach
+Raptor
+Strig
+Vulpin
