@@ -88,38 +88,38 @@ public class makePerson extends JFrame  {
 	public makePerson() throws IOException {
 		super("Person maker thingy");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		setLayout(new FlowLayout(FlowLayout.CENTER, 10, 10));
+		setLayout(new FlowLayout(FlowLayout.LEFT, 10, 10));
 		
 		//creating everything
 		b = new JButton("Click to generate!");
 		b.setBounds(220, 100, 150, 30);
 		
-		f = new JTextField("Gender");
+		f = new JTextField("Gender", 6);
 		f.setSize(600, 600);
 		f.setEditable(false);
 		
-		f2 = new JTextField("Race");
-		f2.setSize(800, 600);
+		f2 = new JTextField("Race", 8);
+		f2.setSize(600, 600);
 		f2.setEditable(false);
 		
-		f3 = new JTextField("Class");
+		f3 = new JTextField("Class", 6);
 		f3.setSize(600, 600);
 		f3.setEditable(false);
 		
-		f4 = new JTextField("Alignment");
+		f4 = new JTextField("Alignment", 10);
 		f4.setSize(800, 600);
 		f4.setEditable(false);
 		
-		f5 = new JTextField("Like");
+		f5 = new JTextField("Like", 13);
 		f5.setSize(600, 600);
 		f5.setEditable(false);
 		
-		f6 = new JTextField("Dislike");
+		f6 = new JTextField("Dislike", 12);
 		f6.setSize(600, 600);
 		f6.setEditable(false);
 		
-		f7 = new JTextField("Background");
-		f7.setSize(800, 600);
+		f7 = new JTextField("Background", 12);
+		f7.setSize(600, 600);
 		f7.setEditable(false);
 		//f8 = new JTextField("Gender");
 		
@@ -144,8 +144,8 @@ public class makePerson extends JFrame  {
 		rNum = 66;
 		cNum = 13;
 		aNum = 9;
-		lNum = 4;
-		dNum = 4;
+		lNum = 34;
+		dNum = 34;
 		bNum = 15;
 		randNum = 0;
 		
@@ -188,7 +188,7 @@ public class makePerson extends JFrame  {
 		add(f6);
 		add(f7);
 
-		setSize(800, 800);
+		setSize(750, 250);
 		setVisible(true);
 	}
 	
