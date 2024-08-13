@@ -5,6 +5,4 @@ All it does is pick randomly from a list for gener, race, class. etc. after clic
 
 This is mainly for just getting new charcter concept ideas. If you want to actually build a character you'll have to look elsewhere for that
 
-I have added a signed exe version of the thing, for anyone who doesn't feel like downloading and compiling all of the code just for kicks.
-
-Yeah that's about it
+I tried added a signed exe version of the thing, but it won't open for some reason so I just axed it. Sorry you'll have to compile the code yourself lol
